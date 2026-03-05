@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Merhaba,%20Ben%20Mehmet%20Furkan!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Yazılım%20Mühendisliği%20Öğrencisi&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Merhaba&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/senin-linkedin-adresin" target="_blank">
