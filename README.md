@@ -26,7 +26,7 @@ current_focus:
 
 currently learning: { "Java"}
 
-hobbies: { "Games" , "Travel" , "Cinema" , "ski" }
+hobbies: { "Games" , "Travel" , "Cinema" , "Ski" }
 
 <h3>🚀 Some Tools I Have Used and Learned</h3>
 <p align="left">
