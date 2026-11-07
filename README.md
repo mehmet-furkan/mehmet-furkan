@@ -65,9 +65,5 @@ public class MehmetFurkan extends Student {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmet-furkan&label=Profile%20views&color=F75C7E&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="assets/banner.svg" width="100%" alt="A pixel-art valley at sunset where a cat and Claw'd code, light a campfire, cook, eat, drink from the lake and fall asleep by the fire." />
 </p>
