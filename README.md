@@ -36,6 +36,10 @@ public class MehmetFurkan extends Student {
 }
 ```
 
+<p align="center">
+  <img src="https://media.giphy.com/media/S6sZaHdqsGYFO/giphy.gif" width="420" alt="Gandalf: You shall not pass!" />
+</p>
+
 ### 🚀 Featured Projects
 
 <table>
@@ -66,5 +70,5 @@ public class MehmetFurkan extends Student {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="assets/banner.svg" width="100%" alt="A pixel-art valley at sunset where a cat and Claw'd code, light a campfire, cook, eat, drink from the lake and fall asleep by the fire." />
 </p>
