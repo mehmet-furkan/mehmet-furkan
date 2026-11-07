@@ -48,13 +48,12 @@ public class MehmetFurkan extends Student {
       <h4>🍳 <a href="https://github.com/mehmet-furkan/YMT-Akilli-Yemek-Tarifi-Web-Uygulamasi">Night Code Kitchen</a></h4>
       Tell it what's in your fridge, it tells you what to cook.
       <br/><br/>
-      Built with a 6-person team in my first year — and I was the project manager. 📋
     </td>
     <td width="50%" valign="top">
       <h4>📵 <a href="https://github.com/mehmet-furkan/Shorts-Blocker">Shorts Blocker</a></h4>
       An Android app that kicks me out of YouTube Shorts and Instagram Reels once my daily limit is up.
       <br/><br/>
-      Yes, I needed it. Yes, it works. 😅
+      Yes, I needed it.
     </td>
   </tr>
 </table>
